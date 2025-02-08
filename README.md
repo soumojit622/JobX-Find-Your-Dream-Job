@@ -38,13 +38,15 @@ Built with **React (Vite), Tailwind CSS, Supabase, Magic UI, ShadCN UI, and Cler
 
 ## **🚀 Tech Stack**  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Magic UI](https://img.shields.io/badge/Magic_UI-FDA4AF?style=for-the-badge&logo=magic)  
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-171717?style=for-the-badge&logo=shadcn&logoColor=white)  
-![Clerk](https://img.shields.io/badge/Clerk-4267B2?style=for-the-badge&logo=clerk&logoColor=white)  
+| Technology | Description | Documentation |
+|------------|-------------|---------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | JavaScript library for building UI components | [React Docs](https://react.dev/) |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Lightning-fast frontend tooling | [Vite Docs](https://vitejs.dev/guide/) |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | Utility-first CSS framework for modern UI design | [Tailwind Docs](https://tailwindcss.com/docs) |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | Open-source Firebase alternative for authentication & database | [Supabase Docs](https://supabase.com/docs) |
+| ![Magic UI](https://img.shields.io/badge/Magic_UI-FDA4AF?style=for-the-badge&logo=magic) | Modern animation & UI library for seamless effects | [Magic UI Docs](https://www.magicui.dev/) |
+| ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-171717?style=for-the-badge&logo=shadcn&logoColor=white) | Beautiful pre-built UI components | [ShadCN UI Docs](https://ui.shadcn.dev/) |
+| ![Clerk](https://img.shields.io/badge/Clerk-4267B2?style=for-the-badge&logo=clerk&logoColor=white) | Authentication and user management platform | [Clerk Docs](https://clerk.dev/docs) |
 
 ---
 
@@ -56,8 +58,7 @@ Built with **React (Vite), Tailwind CSS, Supabase, Magic UI, ShadCN UI, and Cler
 
 1. Push your repo to GitHub  
 2. Connect it to **Vercel** or **Netlify**  
-3. Add environment variables  
-4. Deploy & enjoy! 🎉  
+3. Deploy & enjoy! 🎉  
 
 ---
 
