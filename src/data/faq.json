@@ -1,0 +1,34 @@
+[
+    {
+      "question": "What is JobX?",
+      "answer": "JobX is a modern job portal that connects job seekers with employers. Companies can post job listings, and users can search, save, and apply for jobs effortlessly. It offers a seamless user experience with advanced search filters and secure authentication."
+    },
+    {
+      "question": "How do I post a job?",
+      "answer": "As an employer, you can post a job by navigating to the 'Post a Job' section after logging in. Fill in the job details, set requirements, and submit the listing to make it visible to job seekers."
+    },
+    {
+      "question": "How can I search for jobs?",
+      "answer": "Job seekers can explore opportunities using keyword searches, location filters, job categories, and company preferences. The search bar on the homepage or the 'Find Jobs' section makes it easy to browse available positions."
+    },
+    {
+      "question": "How do I apply for a job?",
+      "answer": "To apply for a job, open the job listing, click the 'Apply Now' button, and follow the application steps. You may need to upload your resume, cover letter, or additional documents as required by the employer."
+    },
+    {
+      "question": "Can I save jobs for later?",
+      "answer": "Yes! Click the 'Save Job' button on a listing to bookmark it. You can access all your saved jobs from your profile under the 'Saved Jobs' section and apply whenever you're ready."
+    },
+    {
+      "question": "How do I track my job applications?",
+      "answer": "Easily track the status of your applications under the 'My Applications' section in your profile. You can view pending, shortlisted, and rejected applications along with updates from employers."
+    },
+    {
+      "question": "Is JobX free to use?",
+      "answer": "Yes, JobX is free for job seekers! Employers may have premium options for job postings and featured listings to reach more candidates."
+    },
+    {
+      "question": "How do I contact an employer?",
+      "answer": "You can contact employers by sending a message through the job listing if the option is available. Some job listings may also include direct contact details for further inquiries."
+    }
+]
