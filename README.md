@@ -44,13 +44,14 @@ Built with **React (Vite), Tailwind CSS, Supabase, Magic UI, ShadCN UI, and Cler
 
 | 🚀 Technology | 📜 Description | 🔗 Documentation |
 |--------------|---------------|------------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | JavaScript library for building UI components | [React Docs](https://react.dev/) |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Lightning-fast frontend tooling | [Vite Docs](https://vitejs.dev/guide/) |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | Utility-first CSS framework for modern UI design | [Tailwind Docs](https://tailwindcss.com/docs) |
-| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | Open-source Firebase alternative for authentication & database | [Supabase Docs](https://supabase.com/docs) |
-| ![Magic UI](https://img.shields.io/badge/Magic_UI-FDA4AF?style=for-the-badge&logo=magic) | Modern animation & UI library for seamless effects | [Magic UI Docs](https://www.magicui.dev/) |
-| ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-171717?style=for-the-badge&logo=shadcn&logoColor=white) | Beautiful pre-built UI components | [ShadCN UI Docs](https://ui.shadcn.dev/) |
-| ![Clerk](https://img.shields.io/badge/Clerk-4267B2?style=for-the-badge&logo=clerk&logoColor=white) | Authentication and user management platform | [Clerk Docs](https://clerk.dev/docs) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | **React** is a JavaScript library for building interactive user interfaces. It allows component-based architecture and efficient state management. | [React Docs](https://react.dev/) |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | **Vite** is a modern frontend build tool that significantly improves development speed with hot module replacement and optimized builds. | [Vite Docs](https://vitejs.dev/guide/) |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | **Tailwind CSS** is a utility-first CSS framework for creating responsive, custom, and clean user interfaces faster. | [Tailwind Docs](https://tailwindcss.com/docs) |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | **Supabase** provides a real-time, open-source backend as a service with features like database, authentication, and storage. | [Supabase Docs](https://supabase.com/docs) |
+| ![Magic UI](https://img.shields.io/badge/Magic_UI-FDA4AF?style=for-the-badge&logo=flutter&logoColor=white) | **Magic UI** is a powerful animation and design library that enhances user experience with smooth transitions and effects. | [Magic UI Docs](https://www.magicui.dev/) |
+| ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-171717?style=for-the-badge&logo=css3&logoColor=white) | **ShadCN UI** provides customizable, pre-built components that are accessible and developer-friendly. | [ShadCN UI Docs](https://ui.shadcn.dev/) |
+| ![Clerk](https://img.shields.io/badge/Clerk-4267B2?style=for-the-badge&logo=auth0&logoColor=white) | **Clerk** simplifies user management by offering secure authentication and authorization solutions with OAuth support. | [Clerk Docs](https://clerk.dev/docs) |
+
 
 ---
 
