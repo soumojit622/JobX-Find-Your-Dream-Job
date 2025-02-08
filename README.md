@@ -99,8 +99,8 @@ Feel free to connect with me on:
 ---
 
 ## ❤️ **Special Thanks 🙏**
-If you **love** this project, don’t forget to **star** ⭐ it on GitHub!  
+A special thanks to **ChatGPT** for all your support in completing this project! 🌟
 
 ---
 
-## **🎯 JobX – Built for Developers & Recruiters** 🚀  
+Feel free to reach out for collaborations or feedback!
