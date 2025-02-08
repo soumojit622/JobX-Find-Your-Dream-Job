@@ -4,7 +4,11 @@
 
 Built with **React (Vite), Tailwind CSS, Supabase, Magic UI, ShadCN UI, and Clerk**, JobX provides a **beautiful**, **high-speed**, and **responsive** user experience across all devices.  
 
-![JobX Preview](https://via.placeholder.com/1200x600?text=Project+Preview)  
+---
+
+## **🌎 Live Demo & Deployment**  
+
+🔗 **Live Demo**: [JobX Live](https://jobx.example.com)  
 
 ---
 
@@ -47,18 +51,6 @@ Built with **React (Vite), Tailwind CSS, Supabase, Magic UI, ShadCN UI, and Cler
 | ![Magic UI](https://img.shields.io/badge/Magic_UI-FDA4AF?style=for-the-badge&logo=magic) | Modern animation & UI library for seamless effects | [Magic UI Docs](https://www.magicui.dev/) |
 | ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-171717?style=for-the-badge&logo=shadcn&logoColor=white) | Beautiful pre-built UI components | [ShadCN UI Docs](https://ui.shadcn.dev/) |
 | ![Clerk](https://img.shields.io/badge/Clerk-4267B2?style=for-the-badge&logo=clerk&logoColor=white) | Authentication and user management platform | [Clerk Docs](https://clerk.dev/docs) |
-
----
-
-## **🌎 Live Demo & Deployment**  
-
-🔗 **Live Demo**: [JobX Live](https://jobx.example.com)  
-
-### **🚀 Deploy on Vercel / Netlify**  
-
-1️⃣ Push your repo to **GitHub**  
-2️⃣ Connect it to **Vercel** or **Netlify**  
-3️⃣ Deploy & enjoy! 🎉  
 
 ---
 
