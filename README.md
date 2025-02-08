@@ -62,44 +62,43 @@ Built with **React (Vite), Tailwind CSS, Supabase, Magic UI, ShadCN UI, and Cler
 
 ---
 
-## **📚 Useful Resources**  
+## 💬 **Contributing 🌍**
 
-📖 **Supabase Docs**: [https://supabase.com/docs](https://supabase.com/docs)  
-📖 **Clerk Authentication Docs**: [https://clerk.dev/docs](https://clerk.dev/docs)  
-📖 **Vite Documentation**: [https://vitejs.dev/guide/](https://vitejs.dev/guide/)  
-📖 **Tailwind CSS**: [https://tailwindcss.com/docs](https://tailwindcss.com/docs)  
-📖 **ShadCN UI Docs**: [https://ui.shadcn.dev/](https://ui.shadcn.dev/)  
+We welcome all contributions! Here's how you can contribute:
 
----
-
-## **🤝 Contribution Guidelines**  
-
-We welcome contributions! 🙌  
-
-- **Fork the repository** 🍴  
-- **Create a new branch** (`feature/amazing-feature`)  
-- **Commit your changes** (`git commit -m "Added an amazing feature"`)  
-- **Push to the branch** (`git push origin feature/amazing-feature`)  
-- **Create a Pull Request** 🚀  
-
----
-
-## **📄 License**  
-This project is licensed under the **MIT License**.  
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. 🖊️ Commit your changes:
+    ```bash
+    git commit -m "Add your feature"
+    ```
+4. 🚀 Push the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. 🔀 Open a pull request.
 
 ---
 
-## **📬 Contact & Support**  
+## 📧 **Contact ✉️**
 
-💬 **Need help?** Open an **issue** or reach out:  
-📧 **Email**: your-email@example.com  
-🐦 **Twitter**: [@your_handle](https://twitter.com/)  
-🔗 **LinkedIn**: [Your Profile](https://linkedin.com/)  
+For any questions or feedback, feel free to contact me:
+
+- 📧 Email: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)
 
 ---
 
-## **⭐ Star this Project!**  
+## 👨‍💻 **Made by [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)** 💼
 
+Feel free to connect with me on:  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
+
+---
+
+## ❤️ **Special Thanks 🙏**
 If you **love** this project, don’t forget to **star** ⭐ it on GitHub!  
 
 ---
